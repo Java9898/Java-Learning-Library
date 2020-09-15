@@ -1,5 +1,8 @@
 # Java-Learning-Library
 若干Java面试资料&技术进阶资料，需要获取的朋友们可以加一下企鹅群：**468947140**群主处免费领取，群内还会有技术交流，进群备注开发年限以及需要资料。
+也可扫码添加微信号：xx1507153110
+
+![](https://upload-images.jianshu.io/upload_images/13638982-7543f04114ca27c6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 >[**并发编程、微服务、设计模式、数据结构与算法、数据库、Dubbo、JVM、Mybatis、MySQL、Redis、Spring等Java核心技术资料，点击这里加入免费领取！**](https://jq.qq.com/?_wv=1027&k=B5zJzol1)
 
